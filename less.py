@@ -63,8 +63,6 @@
 #     for i in text:
 #         if i in 'aeiou':
 #             count += 1
-#     return count
-# print(func('Vardan Love Bisetka and Blot'))
 # -------------------------------------------------
 
 
