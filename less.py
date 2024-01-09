@@ -75,4 +75,5 @@
 #         file.write(f'{i} -- {x[i]}\n')
 # -------------------------------------------------
 
-
+for i in range(10):
+  print("My name is EDO")
