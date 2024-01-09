@@ -1,6 +1,6 @@
 # def func(n):
 
-#     if n == 1:
+#     if n == 11:
 #         return '11'
 #     else:
 #         return func(n // 2) + str(n % 2)
